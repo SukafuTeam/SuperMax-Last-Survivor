@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.AttachToProcess" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Assets/Scripts/Manager/SustinhoScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/cenario/CellDoorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/objects/FacaScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Manager/Game.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UI/mochila/InventarioScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Manager/TerrainGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/cenario/LimpDoorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/cenario/SafeDoorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Manager/ReturnMapScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GetVictoryMessage.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UI/MenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LoadScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/camera/CameraControler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SoundData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/PlayerMovement.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

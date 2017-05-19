@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brasil Game Jam 2016", "Assembly-CSharp-firstpass.csproj", "{49AA33A8-06A0-24DA-6707-A13C2337BCA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brasil Game Jam 2016", "Assembly-CSharp.csproj", "{CF952FE6-88B6-AA0B-EE69-50A471BD8B42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brasil Game Jam 2016", "Assembly-CSharp-Editor.csproj", "{5CC1F625-6C9D-AAF4-D3FD-DC314BC197BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49AA33A8-06A0-24DA-6707-A13C2337BCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AA33A8-06A0-24DA-6707-A13C2337BCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AA33A8-06A0-24DA-6707-A13C2337BCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AA33A8-06A0-24DA-6707-A13C2337BCA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF952FE6-88B6-AA0B-EE69-50A471BD8B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF952FE6-88B6-AA0B-EE69-50A471BD8B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF952FE6-88B6-AA0B-EE69-50A471BD8B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF952FE6-88B6-AA0B-EE69-50A471BD8B42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC1F625-6C9D-AAF4-D3FD-DC314BC197BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC1F625-6C9D-AAF4-D3FD-DC314BC197BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC1F625-6C9D-AAF4-D3FD-DC314BC197BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC1F625-6C9D-AAF4-D3FD-DC314BC197BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
